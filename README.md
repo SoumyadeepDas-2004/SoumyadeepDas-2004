@@ -66,7 +66,7 @@ I am currently seeking **entry-level roles or internships** in:
 ---
 
 ### 📫 Connect With Me
-- 🌐 Portfolio: *(add your portfolio link here)*
+- 🌐 Portfolio: https://soumyadeepdas-2004.github.io/
 - 💼 LinkedIn: https://www.linkedin.com/in/soumyadeep--das/
 - 🧠 Kaggle: https://www.kaggle.com/soumyadeepdas094
 - 🧑‍💻 GitHub: https://github.com/SoumyadeepDas-2004
